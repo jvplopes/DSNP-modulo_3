@@ -32,4 +32,4 @@ Segundo a OMS, pandemia é a disseminação mundial de uma nova doença que se e
 ## Obtenção dos Dados
 Os dados utilizados foram obtidos no site Our World ind Data. Os dados de mais de 200 países são atualizados diariamente, nesta análise o período temporal será até o dia 12/02/2022.
 
-[Ver a análise completa](https://github.com/jvplopes/DSNP-modulo_1/blob/main/Analisando_os_Dados_do_Airbnb_Rio_de_janeiro.ipynb)
+[Ver a análise completa](https://github.com/jvplopes/DSNP-modulo_3/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
