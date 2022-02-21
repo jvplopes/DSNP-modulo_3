@@ -7,7 +7,7 @@
 
 ## Covid-19
 
-Segundo a Organização Mundial da Saúde - OMS a COVID-19 é uma doença infecsiosa causada pelo vírus SARS-CoV-2.
+Segundo a Organização Mundial da Saúde - OMS a COVID-19 é uma doença infecciosa causada pelo vírus SARS-CoV-2.
 
 A maioria das pessoas infectadas com o vírus apresentará doença respiratória leve a moderada e se recuperará sem precisar de tratamento especial. No entanto, alguns ficarão gravemente doentes e exigirão tratamento médico especial. Os idosos e aqueles com condições médicas subjacentes, como doenças cardiovasculares, diabetes, doenças respiratórias crônicas ou câncer, são mais propensos a desenvolver doenças graves. Qualquer pessoa pode ficar doente com COVID-19 e ficar gravemente doente ou morrer em qualquer idade.
 
@@ -17,7 +17,7 @@ O vírus propaga-se de pessoa para pessoa por pequenas particulas líquidas.
 
 O vírus pode se espalhar da boca ou nariz de uma pessoa infectada em pequenas partículas líquidas quando ela tosse, espirra, fala, canta ou respira. Essas partículas variam de gotículas respiratórias maiores a aerossóis menores. É importante praticar a etiqueta respiratória, por exemplo, tossindo com o cotovelo flexionado, e ficar em casa e isolar-se até se recuperar se não estiver se sentindo bem.
 
-## Prevensão
+## Prevenção
 
 A melhor maneira de prevenir e retardar a transmissão é estar bem informado sobre a doença e como o vírus se espalha. Proteja-se a si e aos outros da infecção mantendo-se a pelo menos 1 metro de distância dos outros, usando uma máscara apropriadamente ajustada e lavando as mãos ou esfregando-as com álcool com frequência. Vacine-se quando for a sua vez e siga as orientações locais.
 
